@@ -1,11 +1,12 @@
 # laba1
 
-(код проги на С++)
+(изменённый код проги на С++)
 
 #include <iostream>
 using namespace std;
 
 void main()
 {
-cout << "Halo World";
+ for(int i = 0; i < 5; i++) 
+ cout << "Halo World" << endl;
 }
